@@ -1,1 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<afdv xmlns:afdv="http://asp.afterdev.com/night.dev">
+  <afdv:website>true</afdb:website>
+  <afdv:owner>After dev</afdv:owner>
+  <afdv:localfile>/night.dev/.afterdev/info/in.xml</afdv:localfile>
+</afdv>
